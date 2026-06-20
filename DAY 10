@@ -1,0 +1,4 @@
+cd fraud-detection
+dvc init
+git add .dvc .dvcignore
+git commit -m "Initialize DVC"
