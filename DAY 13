@@ -1,0 +1,9 @@
+cd fraud_detection
+
+config file:
+// add two lines 
+access_key_id = weedadmin
+secret_access_key = weedadmin123
+
+// In terminal
+dvc pull
