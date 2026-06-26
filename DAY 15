@@ -1,0 +1,9 @@
+cd fraud_detection
+
+Change the parameter, n_estimators in dvc.yaml to 200
+
+dvc repro // in terminal
+
+git add dvc.lock
+
+
