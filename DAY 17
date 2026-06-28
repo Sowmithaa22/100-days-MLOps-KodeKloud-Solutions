@@ -1,0 +1,11 @@
+// in params.yaml
+n_estimators should be changed to 50,200,500
+
+// every time the parameter is changed run the below command in terminal
+dvc exp run
+
+//DVC tab for the DVC Extensions and click Show Experiments
+Choose the experiment with highest accuracy,
+right click and apply to workspace
+pop for a confirmation would appear
+experiment is done!
