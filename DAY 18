@@ -1,0 +1,5 @@
+cd fraud_detection
+git tag1.0
+
+git switch -c v2-improved
+cp data/raw/transactions_v2.csv data/raw/transactions.csv
